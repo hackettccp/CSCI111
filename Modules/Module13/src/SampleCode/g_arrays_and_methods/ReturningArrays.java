@@ -1,4 +1,4 @@
-package SampleCode;
+package SampleCode.g_arrays_and_methods;
 
 /**
  * Demonstrates returning an array from a method.

@@ -1,59 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="238e326a-0f20-45d9-9d65-93757a058d48" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="238e326a-0f20-45d9-9d65-93757a058d48" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SampleCode/g_arrays_and_methods/ArrayArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SampleCode/g_arrays_and_methods/ReturningArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SampleCode/g_arrays_and_methods/VarArgs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/10_CSCI111_Java_Logic_and_Repetition_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/10_CSCI111_Java_Logic_and_Repetition_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/11_CSCI111_Arrays_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/11_CSCI111_Arrays_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/12_CSCI111_Objects_and_Classes_I_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/12_CSCI111_Objects_and_Classes_I_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/13_CSCI111_Objects_and_Classes_II_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/13_CSCI111_Objects_and_Classes_II_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/14_CSCI111_Arrays_and_Methods_MH.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/2_CSCI111_Variables_Data_Types_and_Data_Streams_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/2_CSCI111_Variables_Data_Types_and_Data_Streams_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/3_CSCI111_Arithmetic_and_Type_Conversion_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/3_CSCI111_Arithmetic_and_Type_Conversion_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/4_CSCI111_Logic_and_Branching_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/4_CSCI111_Logic_and_Branching_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/5_CSCI111_Repetition_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/5_CSCI111_Repetition_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/6_CSCI111_Sequence_Types_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/6_CSCI111_Sequence_Types_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/7_CSCI111_Files_and_Subroutines_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/7_CSCI111_Files_and_Subroutines_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/8_CSCI111_2D_Graphics_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/8_CSCI111_2D_Graphics_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/9_CSCI111_Java_Fundamentals_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/9_CSCI111_Java_Fundamentals_MH.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module9/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="32" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Module13" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module13" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1bBC54QU12zHwX2jpg6tkNVpzoS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../CSCI211/Modules/Module3" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/SampleCode/g_arrays_and_methods" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI111\GIT\Modules\Module13\src\SampleCode\g_arrays_and_methods" />
       <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI111\GIT\Modules\Module13\src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -67,38 +60,6 @@
       <updated>1570682329944</updated>
     </task>
     <servers />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="113" y="32" width="1400" height="1000" extended-state="0" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="DB Browser" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="masterDetails">
     <states>

@@ -1,4 +1,4 @@
-package SampleCode;
+package SampleCode.g_arrays_and_methods;
 
 /**
  * Demonstrates passing an array to a method.
