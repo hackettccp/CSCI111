@@ -1,4 +1,4 @@
-package SampleCode.a_decisions;
+package java_decisions;
 
 import java.util.Scanner;
 

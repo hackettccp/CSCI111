@@ -1,4 +1,4 @@
-package Labs;
+package lab_exercise;
 
 /**
  * Create a program that prints the user's zodiac sign, based on their birth day and month.
@@ -26,7 +26,7 @@ package Labs;
  * Enter the day number of your birth: 5
  * Your zodiac sign is Leo.
  */
-class Lab1_Zodiac {
+class Zodiac {
     
     /*
      * Main Method. This is where the program begins.
