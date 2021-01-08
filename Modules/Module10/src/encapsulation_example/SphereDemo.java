@@ -1,7 +1,7 @@
-package overloading_example;
+package encapsulation_example;
 
 /**
- * Demonstrates using a Sphere object.
+ * Demonstrates encapsulating and validating data passed to an object.
  */
 public class SphereDemo {
 
@@ -11,15 +11,14 @@ public class SphereDemo {
      * left of the main method's header (near the line numbers)
      */
     public static void main(String[] args) {
-        Sphere demo = new Sphere(65.4);
+        Sphere demo = new Sphere(-73.65);
+        System.out.println("The sphere's radius is " + demo.getRadius()); //Prints the Sphere's radius (1)
 
-        System.out.println("The sphere’s radius is " + demo.getRadius());   //Prints the Sphere's radius
+        demo.setRadius(-9.25);                                            //Attempts to set the radius to -9.25
+        System.out.println("The sphere's radius is " + demo.getRadius()); //Prints the Sphere's radius (1)
 
-        demo.setRadius(14.5);                                               //Changes the Sphere's radius (double argument)
-        System.out.println("The sphere’s radius is " + demo.getRadius());   //Prints the Sphere's radius
-
-        demo.setRadius("83.214");                                           //Changes the Sphere's radius (String argument)
-        System.out.println("The sphere’s radius is " + demo.getRadius());   //Prints the Sphere's radius
+        demo.setRadius("-200.13");                                        //Attempts to set the radius to -200.13
+        System.out.println("The sphere's radius is " + demo.getRadius()); //Prints the Sphere's radius (1)
     }
 
 }
