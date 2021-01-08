@@ -1,59 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6134f906-8b16-44a5-bffb-e974f57edf42" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="6134f906-8b16-44a5-bffb-e974f57edf42" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/aggregation_example/Bicycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggregation_example/BicycleDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggregation_example/BicycleDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/aggregation_example/Tire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_text_files/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_text_files/FileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java_text_files/SampleFile.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/object_example/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/object_example/CarDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module12/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_loops/Example1_WhileLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_loops/Example1_WhileLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_loops/Example2_DoWhileLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_loops/Example2_DoWhileLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_loops/Example3_Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_loops/Example3_Increment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_loops/Example4_Decrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_loops/Example4_Decrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_loops/Example5_ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_loops/Example5_ForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_loops/Example6_NestedLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_loops/Example6_NestedLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_loops/Example7_LoopBranching.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_loops/Example7_LoopBranching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_loops/Example8_InfiniteForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_loops/Example8_InfiniteForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/b_loops/Example9_InfiniteWhileLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_loops/Example9_InfiniteWhileLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c_random_numbers/Example1_Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/random_numbers/Example1_Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c_random_numbers/Example2_CoinToss.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/random_numbers/Example2_CoinToss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c_random_numbers/Example3_Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/random_numbers/Example3_Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/c_random_numbers/Example4_DiceSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/random_numbers/Example4_DiceSim.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module12/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module12/src/Labs/Lab2_NumberGuesser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_exercise/NumberGuesser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module9/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="113" />
-    <option name="y" value="32" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Module11" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Module11" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../CSCI211/Modules/Module3" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI111\GIT\Modules\Module11\src" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1kLf2dgNinq7w5AzFhxqUs5X3fr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/java_text_files" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="aggregation_example" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI111\GIT\Modules\Module11\src\java_text_files" />
+      <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI111\GIT\Modules\Module11\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -68,52 +89,14 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="113" y="32" width="1400" height="1000" extended-state="0" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="DB Browser" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="833" y="283" key="FileChooserDialogImpl" timestamp="1610137073583">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="283" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610137073583" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1605484618104">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605484618104" />
   </component>
 </project>
