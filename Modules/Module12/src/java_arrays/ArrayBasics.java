@@ -1,9 +1,9 @@
-package SampleCode.a_arrays;
+package java_arrays;
 
 /**
  * Demonstrates basic array usage.
  */
-class ArrayExamples {
+class ArrayBasics {
 
     /*
      * Main Method. This is where the program begins.

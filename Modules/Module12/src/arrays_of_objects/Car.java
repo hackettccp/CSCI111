@@ -1,4 +1,4 @@
-package SampleCode.d_arrays_of_objects;
+package arrays_of_objects;
 
 /**
  * Car Object.

@@ -1,4 +1,4 @@
-package SampleCode.d_arrays_of_objects;
+package arrays_of_objects;
 
 /**
  * This class is used to create instances of Rectangle objects

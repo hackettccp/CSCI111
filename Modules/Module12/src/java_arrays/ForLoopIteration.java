@@ -1,4 +1,4 @@
-package SampleCode.b_iteration;
+package java_arrays;
 
 import java.util.Scanner;
 

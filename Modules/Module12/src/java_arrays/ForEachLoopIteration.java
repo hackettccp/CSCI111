@@ -1,4 +1,4 @@
-package SampleCode.b_iteration;
+package java_arrays;
 
 /**
  * Demonstrates iterating through an array using a for each loop.

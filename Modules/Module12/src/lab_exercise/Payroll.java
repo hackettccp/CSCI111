@@ -1,4 +1,4 @@
-package Labs;
+package lab_exercise;
 
 /**
  * Create a program displays payroll information for a group of employees.
@@ -25,7 +25,7 @@ package Labs;
  * Total Pay: $1120
  * 
  */
-class Lab1_Payroll {
+class Payroll {
     
     /*
      * Main Method. This is where the program begins.

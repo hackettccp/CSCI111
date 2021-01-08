@@ -1,4 +1,4 @@
-package SampleCode.c_common_array_operations;
+package common_array_operations;
 
 /**
  * Demonstrates shallow and deep array copying.
