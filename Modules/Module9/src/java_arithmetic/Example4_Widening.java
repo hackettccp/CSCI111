@@ -1,4 +1,4 @@
-package SampleCode.b_arithmetic;
+package java_arithmetic;
 
 /**
  * Demonstrates widening a primitive type.

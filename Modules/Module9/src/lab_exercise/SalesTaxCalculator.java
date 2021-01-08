@@ -1,4 +1,4 @@
-package Labs;
+package lab_exercise;
 
 /**
  * Create a program that prompts the user to enter the amount of a purchase.
@@ -22,7 +22,7 @@ package Labs;
  *
  * The total sale is $131.04
  */
-public class Lab2_SalesTaxCalculator {
+public class SalesTaxCalculator {
 
     /**
      * Main Method. This is where a Java program begins.

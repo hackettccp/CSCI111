@@ -1,9 +1,9 @@
-package SampleCode.b_arithmetic;
+package java_arithmetic;
 
 /**
- * Demonstrates mixed integer operations.
+ * Demonstrates mixed type operations.
  */
-class Example5_MixedInteger {
+class Example5_MixedType {
     
     /**
      * Main Method. This is where the program begins.

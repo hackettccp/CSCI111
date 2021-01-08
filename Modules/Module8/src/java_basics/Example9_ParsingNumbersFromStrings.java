@@ -1,9 +1,9 @@
-package SampleCode.b_arithmetic;
+package java_basics;
 
 /**
  * Demonstrates parsing numeric values from Strings.
  */
-class Example7_ParsingNumbersFromStrings {
+class Example9_ParsingNumbersFromStrings {
 
     /**
      * Main Method. This is where the program begins.

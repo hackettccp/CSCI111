@@ -1,4 +1,4 @@
-package SampleCode.b_arithmetic;
+package java_arithmetic;
 
 /**
  * Demonstrates narrowing a primitive type.
