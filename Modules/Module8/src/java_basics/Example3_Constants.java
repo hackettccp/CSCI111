@@ -1,4 +1,4 @@
-package SampleCode.a_basics;
+package java_basics;
 
 /**
  * Demonstrates constants (variables whose values cannot be changed).

@@ -1,4 +1,4 @@
-package Labs;
+package lab_exercise;
 
 /**
  * Prompt the user to enter their name, street address,
@@ -21,7 +21,7 @@ package Labs;
  * 123 Any Street
  * Anytown, Pennsylvania 12345
  */
-public class Lab1_StandardInput {
+public class StandardInput {
 
     /**
      * Main Method. This is where a Java program begins.

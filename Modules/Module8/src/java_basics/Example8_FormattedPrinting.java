@@ -1,4 +1,4 @@
-package SampleCode.a_basics;
+package java_basics;
 
 /**
  * Demonstrates the use of the System.out.printf method.

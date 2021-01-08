@@ -1,4 +1,4 @@
-package SampleCode.a_basics;
+package java_basics;
 
 /**
  * Demonstrates String concatenation and appending.
