@@ -1,4 +1,4 @@
-package SampleCode.a_rectangle;
+package copying_objects;
 
 /**
  * This class is used to create instances of Rectangle objects that have length
@@ -50,18 +50,6 @@ public class Rectangle {
      */
     public Rectangle clone() {
         return new Rectangle(length, width);
-    }
-
-    /**
-     * Determines if another Rectangle instance is equal to this one.
-     * Returns true if the lengths and width match, otherwise returns false.
-     */
-    public boolean equals(Rectangle otherRectangle) {
-        if (otherRectangle.getLength() == length &&
-                otherRectangle.getWidth() == width) {
-            return true;
-        }
-        return false;
     }
 
     /**

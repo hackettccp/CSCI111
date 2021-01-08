@@ -1,4 +1,4 @@
-package SampleCode.c_statics;
+package static_fields_and_methods;
 
 /**
  * This class demonstrates static members of Rectangle objects.

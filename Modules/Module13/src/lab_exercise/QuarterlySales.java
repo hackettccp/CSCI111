@@ -1,4 +1,4 @@
-package Labs;
+package lab_exercise;
 
 /**
  * Create a program that calculates the annual sales amounts of a user-specified number of stores.
@@ -31,8 +31,8 @@ package Labs;
  * Total sales for store 2: 825
  * Total sales for store 3: 1000
  */
-class Lab2_QuarterlySales {
-    
+class QuarterlySales {
+
     /*
      * Main Method. This is where the program begins.
      */

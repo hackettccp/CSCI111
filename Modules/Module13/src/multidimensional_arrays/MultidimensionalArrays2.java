@@ -1,4 +1,4 @@
-package SampleCode.d_multidimensional_arrays;
+package multidimensional_arrays;
 
 /**
  * Demonstrates multidimensional arrays.

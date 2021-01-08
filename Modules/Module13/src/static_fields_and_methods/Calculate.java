@@ -1,4 +1,4 @@
-package SampleCode.c_statics;
+package static_fields_and_methods;
 
 /**
  * A class with one static method.

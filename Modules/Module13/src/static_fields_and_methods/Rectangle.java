@@ -1,4 +1,4 @@
-package SampleCode.c_statics;
+package static_fields_and_methods;
 
 /**
  * This class is used to create instances of Rectangle objects that have length

@@ -1,4 +1,4 @@
-package SampleCode.a_rectangle;
+package object_equality;
 
 /**
  * This class demonstrates the Rectangle object's copy constructor.
