@@ -2,16 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="abf15c31-ad67-43b9-80fc-36b91e0de04f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module13/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module13/src/object_equality/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/11_CSCI111_Object_Oriented_Programming_IV_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/11_CSCI111_Object_Oriented_Programming_IV_MH.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation_example/Sphere.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_example/Sphere.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulation_example/SphereDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/encapsulation_example/SphereDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module12/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module12/src/Labs/Lab2_QuarterlySales.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/lab_exercise/QuarterlySales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module12/src/SampleCode/d_multidimensional_arrays/MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/multidimensional_arrays/MultidimensionalArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module12/src/SampleCode/d_multidimensional_arrays/MultidimensionalArrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/multidimensional_arrays/MultidimensionalArrays2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module13/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/a_rectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/copying_objects/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/a_rectangle/RectangleCloneMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/copying_objects/RectangleCloneMethodTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/a_rectangle/RectangleCopyConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/copying_objects/RectangleCopyConstructorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/a_rectangle/RectangleEqualityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/object_equality/RectangleEqualityTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/a_rectangle/RectangleOverloadingTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/b_circle/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/b_circle/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/c_statics/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/static_fields_and_methods/Calculate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/c_statics/CalculateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/static_fields_and_methods/CalculateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/c_statics/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/static_fields_and_methods/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/c_statics/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/static_fields_and_methods/RectangleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/f_objects_of_arrays/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/objects_of_arrays/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/f_objects_of_arrays/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/objects_of_arrays/ParkingLot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/f_objects_of_arrays/ParkingLotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/objects_of_arrays/ParkingLotTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/g_arrays_and_methods/ArrayArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/arrays_and_methods/ArrayArguments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/g_arrays_and_methods/ReturningArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/arrays_and_methods/ReturningArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module13/src/SampleCode/g_arrays_and_methods/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/src/arrays_and_methods/VarArgs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +58,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/encapsulation_example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -66,9 +83,27 @@
       <option name="presentableId" value="Default" />
       <updated>1570682233539</updated>
     </task>
+    <task id="LOCAL-00001" summary="Module 10 Revisions">
+      <created>1610138680231</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610138680231</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Module 10 Revisions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 10 Revisions" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="605" y="150" key="CommitChangelistDialog2" timestamp="1610138678654">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="605" y="150" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610138678654" />
     <state x="796" y="374" key="FileChooserDialogImpl" timestamp="1610137704149">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -77,5 +112,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604006629782" />
+    <state x="700" y="318" key="Vcs.Push.Dialog.v2" timestamp="1610138690364">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="700" y="318" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610138690364" />
   </component>
 </project>

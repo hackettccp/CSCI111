@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="238e326a-0f20-45d9-9d65-93757a058d48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_equality/Rectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Lectures/11_CSCI111_Object_Oriented_Programming_IV_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/11_CSCI111_Object_Oriented_Programming_IV_MH.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module12/src/Labs/Lab2_QuarterlySales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_exercise/QuarterlySales.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module12/src/SampleCode/d_multidimensional_arrays/MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimensional_arrays/MultidimensionalArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module12/src/SampleCode/d_multidimensional_arrays/MultidimensionalArrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/multidimensional_arrays/MultidimensionalArrays2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_rectangle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/copying_objects/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_rectangle/RectangleCloneMethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/copying_objects/RectangleCloneMethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_rectangle/RectangleCopyConstructorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/copying_objects/RectangleCopyConstructorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_rectangle/RectangleEqualityTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/object_equality/RectangleEqualityTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_rectangle/RectangleOverloadingTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_circle/Circle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_circle/CircleTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_statics/Calculate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_fields_and_methods/Calculate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_statics/CalculateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_fields_and_methods/CalculateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_statics/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_fields_and_methods/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/c_statics/RectangleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/static_fields_and_methods/RectangleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/f_objects_of_arrays/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_of_arrays/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/f_objects_of_arrays/ParkingLot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_of_arrays/ParkingLot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/f_objects_of_arrays/ParkingLotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/objects_of_arrays/ParkingLotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/g_arrays_and_methods/ArrayArguments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_and_methods/ArrayArguments.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/g_arrays_and_methods/ReturningArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_and_methods/ReturningArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/g_arrays_and_methods/VarArgs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays_and_methods/VarArgs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module9/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI111\GIT\Modules\Module13\src\copying_objects" />
       <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI111\GIT\Modules\Module13\src\SampleCode\g_arrays_and_methods" />
       <recent name="C:\Users\hacke\OneDrive - Community College of Philadelphia\Courses\CSCI111\GIT\Modules\Module13\src" />
     </key>
@@ -73,9 +50,27 @@
       <option name="presentableId" value="Default" />
       <updated>1570682329944</updated>
     </task>
+    <task id="LOCAL-00001" summary="Module 13 Revisions">
+      <created>1610142704597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610142704597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Module 13 Revisions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 13 Revisions" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="598" y="135" key="CommitChangelistDialog2" timestamp="1610142702819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="598" y="135" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610142702819" />
     <state x="564" y="272" key="FileChooserDialogImpl" timestamp="1610138961369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -84,5 +79,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="264" y="92" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605484684727" />
+    <state x="696" y="303" key="Vcs.Push.Dialog.v2" timestamp="1610142709852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="696" y="303" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610142709852" />
   </component>
 </project>

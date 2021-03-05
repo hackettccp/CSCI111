@@ -1,104 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e66a317-68ec-4963-84d1-32ba9f43a6b3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Module8/Module8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module8/src/object_examples/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module8/src/object_examples/CircleDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module8/src/object_examples/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module8/src/object_examples/RectangleDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Module8/src/object_examples/RectangleDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_examples/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_examples/CircleDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/object_examples/CircleDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/10_CSCI111_Java_Logic_and_Repetition_MH.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/11_CSCI111_Arrays_MH.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/12_CSCI111_Objects_and_Classes_I_MH.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/13_CSCI111_Objects_and_Classes_II_MH.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/1_CSCI111_Introduction_to_Computing_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/1_CSCI111_Introduction_to_Computing_MH.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/2_CSCI111_Variables_Data_Types_and_Data_Streams_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/2_CSCI111_Variables_Data_Types_and_Data_Streams_MH.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/3_CSCI111_Arithmetic_and_Type_Conversion_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/3_CSCI111_Arithmetic_and_Type_Conversion_MH.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/4_CSCI111_Logic_and_Branching_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/4_CSCI111_Logic_and_Branching_MH.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/5_CSCI111_Repetition_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/5_CSCI111_Repetition_MH.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/6_CSCI111_Sequence_Types_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/6_CSCI111_Sequence_Types_MH.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/7_CSCI111_Files_and_Subroutines_MH.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/8_CSCI111_2D_Graphics_MH.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Lectures/9_CSCI111_Java_Fundamentals_MH.pdf" beforeDir="false" />
+    <list default="true" id="3e66a317-68ec-4963-84d1-32ba9f43a6b3" name="Default Changelist" comment="Module 6 updates">
+      <change afterPath="$PROJECT_DIR$/../Module10/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/encapsulation_example/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/encapsulation_example/SphereDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/object_example/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/object_example/SphereDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/overloading_example/Sphere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module10/src/overloading_example/SphereDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module11/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Module11/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Lectures/10_CSCI111_Object_Oriented_Programming_III_MH.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../../Lectures/10_CSCI111_Object_Oriented_Programming_III_MH.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module10/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/Labs/Lab1_Zodiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/src/lab_exercise/Zodiac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/Labs/Lab2_NumberGuesser.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/Labs/Lab2_NumberGuesser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/a_decisions/Example1_RelationalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/src/java_decisions/Example1_RelationalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/a_decisions/Example2_LogicalOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/src/java_decisions/Example2_LogicalOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/a_decisions/Example3_IfStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/src/java_decisions/Example3_IfStatements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/a_decisions/Example4_ElseClauses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/src/java_decisions/Example4_ElseClauses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/a_decisions/Example5_ElseIfClauses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/src/java_decisions/Example5_ElseIfClauses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/a_decisions/Example6_StringComparison.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/src/java_decisions/Example6_StringComparison.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/a_decisions/Example7_Switches.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/src/java_decisions/Example7_Switches.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/a_decisions/Example8_InlineIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module10/src/java_decisions/Example8_InlineIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/b_loops/Example1_WhileLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/b_loops/Example1_WhileLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/b_loops/Example2_DoWhileLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/b_loops/Example2_DoWhileLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/b_loops/Example3_Increment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/b_loops/Example3_Increment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/b_loops/Example4_Decrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/b_loops/Example4_Decrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/b_loops/Example5_ForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/b_loops/Example5_ForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/b_loops/Example6_NestedLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/b_loops/Example6_NestedLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/b_loops/Example7_LoopBranching.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/b_loops/Example7_LoopBranching.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/b_loops/Example8_InfiniteForLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/b_loops/Example8_InfiniteForLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/b_loops/Example9_InfiniteWhileLoops.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/b_loops/Example9_InfiniteWhileLoops.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/c_random_numbers/Example1_Random.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/c_random_numbers/Example1_Random.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/c_random_numbers/Example2_CoinToss.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/c_random_numbers/Example2_CoinToss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/c_random_numbers/Example3_Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/c_random_numbers/Example3_Dice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module10/src/SampleCode/c_random_numbers/Example4_DiceSim.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/src/c_random_numbers/Example4_DiceSim.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module11/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module11/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/Labs/Lab1_Payroll.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/Labs/Lab1_Payroll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/Labs/Lab2_QuarterlySales.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/Labs/Lab2_QuarterlySales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/SampleCode/a_arrays/ArrayExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/SampleCode/a_arrays/ArrayExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/SampleCode/b_iteration/ForEachLoopIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/SampleCode/b_iteration/ForEachLoopIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/SampleCode/b_iteration/ForLoopIteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/SampleCode/b_iteration/ForLoopIteration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/SampleCode/c_common_array_operations/ArrayCopy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/SampleCode/c_common_array_operations/ArrayCopy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/SampleCode/c_common_array_operations/ArrayDecreaseSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/SampleCode/c_common_array_operations/ArrayDecreaseSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/SampleCode/c_common_array_operations/ArrayEquality.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/SampleCode/c_common_array_operations/ArrayEquality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/SampleCode/c_common_array_operations/ArrayIncreaseSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/SampleCode/c_common_array_operations/ArrayIncreaseSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/SampleCode/d_multidimensional_arrays/MultidimensionalArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/SampleCode/d_multidimensional_arrays/MultidimensionalArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Module11/src/SampleCode/d_multidimensional_arrays/MultidimensionalArrays2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/src/SampleCode/d_multidimensional_arrays/MultidimensionalArrays2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module12/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module12/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module13/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Module13/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Module13/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/10_list_slicing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/11_copying_lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/12_list_equality.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/13_multidimensional_lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/1_string_indexes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/2_character_testing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/3_string_slicing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/4_list_basics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/5_relative_indexes.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/6_list_iteration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/7_appending_to_lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/8_removing_from_lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module6/SampleCode/9_list_functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/Labs/2_cups_to_ounces.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/10_global_variables3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/11_parameters1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/12_parameters2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/13_parameters3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/1_file_reading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/2_file_reading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/3_file_reading.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/4_file_writing.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/5_file_appending.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/6_procedures.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/7_functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/8_global_variables1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/9_global_variables2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/employee_records_program/1_write_emp_records.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/employee_records_program/2_read_emp_records.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/employee_records_program/3_append_emp_records.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/friends.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module7/SampleCode/testFolder/friends2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Labs/1_star.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Labs/2_cube.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Labs/cube.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Labs/star.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/10_draw_text2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/1_canvas_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/2_draw_line.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/3_draw_multi_lines.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/3_draw_rectangles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/4_draw_ovals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/5_draw_arc.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/6_draw_polygon1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/7_draw_polygon2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/8_draw_polygon3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Module8/Sample Code/9_draw_text.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/Lab1_StandardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/lab_exercise/StandardInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Labs/Lab2_SalesTaxCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab_exercise/SalesTaxCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example1_ConsoleOutput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/java_basics/Example1_ConsoleOutput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example2_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/java_basics/Example2_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example3_Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/java_basics/Example3_Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example4_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/java_basics/Example4_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example5_ConcatAndAppend.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/java_basics/Example5_ConcatAndAppend.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example6_KeyboardInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/java_basics/Example6_KeyboardInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example7_EscapeSequences.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/java_basics/Example7_EscapeSequences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/a_basics/Example8_FormattedPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/java_basics/Example8_FormattedPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example1_Arithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_arithmetic/Example1_Arithmetic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example2_AugmentedAssignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_arithmetic/Example2_AugmentedAssignment.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example3_Narrowing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_arithmetic/Example3_Narrowing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example4_Widening.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_arithmetic/Example4_Widening.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example5_MixedInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_arithmetic/Example5_MixedType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example6_MathExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java_arithmetic/Example6_MathExamples.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SampleCode/b_arithmetic/Example7_ParsingNumbersFromStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Module8/src/java_basics/Example9_ParsingNumbersFromStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +77,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/object_examples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -165,28 +122,62 @@
       <option name="presentableId" value="Default" />
       <updated>1570682185406</updated>
     </task>
+    <task id="LOCAL-00001" summary="Module 9 updates (and a fix to Module 8)">
+      <created>1610136173735</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610136173735</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Module 6 updates">
+      <created>1610136263458</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610136263458</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Module 9 updates (and a fix to Module 8)" />
+    <MESSAGE value="Module 6 updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 6 updates" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1610135646471">
+    <state x="454" y="120" key="CommitChangelistDialog2" timestamp="1610136325555">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610135646471" />
-    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1610135646471">
+    <state x="454" y="120" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610136325555" />
+    <state x="843" y="310" key="FileChooserDialogImpl" timestamp="1610136524223">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610135646470" />
-    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1610135646470">
+    <state x="843" y="310" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610136524223" />
+    <state width="1543" height="279" key="GridCell.Tab.0.bottom" timestamp="1610138544418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610135646470" />
-    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1610135646471">
+    <state width="1543" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610138544418" />
+    <state width="1543" height="279" key="GridCell.Tab.0.center" timestamp="1610138544418">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610135646471" />
+    <state width="1543" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610138544418" />
+    <state width="1543" height="279" key="GridCell.Tab.0.left" timestamp="1610138544417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1543" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610138544417" />
+    <state width="1543" height="279" key="GridCell.Tab.0.right" timestamp="1610138544418">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1543" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610138544418" />
     <state x="253" y="97" key="SettingsEditor" timestamp="1604006592683">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="253" y="97" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604006592683" />
+    <state x="655" y="288" key="Vcs.Push.Dialog.v2" timestamp="1610136309640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="655" y="288" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610136309640" />
   </component>
 </project>
