@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Demonstrates the use of a Scanner object to get keyboard input
  * from a user.
  */
-class Example5_KeyboardInput {
+class Example11_KeyboardInput {
 
     /**
      * Main Method. This is where the program begins.
@@ -14,19 +14,19 @@ class Example5_KeyboardInput {
         Scanner keyboard = new Scanner(System.in);                  //Declare and initialize a Scanner object for getting keyboard input.
                                                                     //The Scanner variable here is named keyboard.
 
-        System.out.print("Enter your name: ");                    //Prompts the user to enter their name
+        System.out.print("Enter your name: ");                      //Prompts the user to enter their name
         String name = keyboard.nextLine();                          //Assigns their input to a String variable named name
 
-        System.out.print("Enter your street address: ");          //Prompt the user to enter their street address
+        System.out.print("Enter your street address: ");            //Prompt the user to enter their street address
         String address = keyboard.nextLine();                       //Assign their input to a String variable named address
         
-        System.out.print("Enter your city: ");                    //Prompt the user to enter their city
+        System.out.print("Enter your city: ");                      //Prompt the user to enter their city
         String city = keyboard.nextLine();                          //Assign their input to a String variable named city
 
-        System.out.print("Enter your state: ");                   //Prompt the user to enter their state
+        System.out.print("Enter your state: ");                     //Prompt the user to enter their state
         String state = keyboard.nextLine();                         //Assign their input to a String variable named state
 
-        System.out.print("Enter your zip code: ");                //Prompt the user to enter their zip code
+        System.out.print("Enter your zip code: ");                  //Prompt the user to enter their zip code
         String zipCode = keyboard.nextLine();                       //Assign their input to a String variable named zipCode
 
 

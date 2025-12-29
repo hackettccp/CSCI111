@@ -19,6 +19,8 @@ class Example2_FileReader {
             line = fileReader.nextLine();                                               //Assign the line of text from the file to the line String variable.
             System.out.println(line);                                                   //The value of the line variable is then printed.
         }
+
+        fileReader.close();
         
     }
 

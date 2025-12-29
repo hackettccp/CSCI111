@@ -32,6 +32,8 @@ class Example3_FileWriter {
             }
         }
 
+        fileWriter.close();
+
     }
 
 }

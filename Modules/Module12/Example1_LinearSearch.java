@@ -1,19 +1,26 @@
 
+import java.util.Random;
 import java.util.Scanner;
 
 /**
- * Demonstrates the Binary Search Algorithm
+ * Demonstrates the Linear Search Algorithm
  */
-public class Example7_BinarySearch {
+public class Example1_LinearSearch {
 
     /**
      * Main Method.
      * @param args - Command line arguments.
      */
     public static void main(String[] args) {
-        int[] numbers = {3, 7, 9, 15, 18, 24, 31, 45, 67, 82};
+        int[] numbers = new int[10];
 
-        //Prints the array
+        //Fills the array with random numbers between 1 and 100
+        Random r = new Random();
+        for(int i = 0; i < numbers.length; i++) {
+            numbers[i] = r.nextInt(100) + 1;
+        }
+
+        //Prints the unsorted array
         printArray(numbers);
 
         Scanner kb = new Scanner(System.in);
@@ -22,12 +29,12 @@ public class Example7_BinarySearch {
             //Prompt for number to search for.
             System.out.print("Enter a number to search for (-1 to exit): ");
             int searchVal = kb.nextInt();
-            if (searchVal < 0) {
+            if(searchVal < 0) {
                 break;
             }
 
             //Search the array.
-            int foundIndex = binarySearch(numbers, searchVal);
+            int foundIndex = linearSearch(numbers, searchVal);
 
             //Result of search.
             if(foundIndex == -1) {
@@ -36,6 +43,7 @@ public class Example7_BinarySearch {
             else {
                 System.out.println("Value was found at index " + foundIndex + "\n");
             }
+
         }
 
         kb.close();
@@ -54,36 +62,19 @@ public class Example7_BinarySearch {
     }
 
     /**
-     * Performs a binary search.
+     * Performs a linear search.
      * @param a - The array to search.
      * @param v - The value to search for.
      * @return Index where the value was found. Returning -1 indicates it was not found.
      */
-    public static int binarySearch(int[] a, int v) {
-        //Set the starting boundaries
-        int low = 0;
-        int high = a.length-1;
-        int middle;
-
-        while(low <= high) {
-            //Calculate the middle index
-            middle = (low + high) / 2;
-
-            if(a[middle] == v) {
-                //Found
-                return middle;
-            }
-            else if(a[middle] > v) {
-                //Search value is less than the middle (search lower partition)
-                high = middle - 1;
-            }
-            else {
-                //search value is greater that the middle (search upper partition)
-                low = middle + 1;
+    public static int linearSearch(int[] a, int v) {
+        for(int i = 0; i < a.length; i++) {
+            if(a[i] == v) {
+                //Value was found at index "i"
+                return i;
             }
         }
-
-        //Search value was not found.
+        //Value was not found, returning -1 (an invalid index)
         return -1;
     }
 }
