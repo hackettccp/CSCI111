@@ -1,4 +1,3 @@
-package object_equality;
 
 /**
  * This class is used to create instances of Rectangle objects that have length

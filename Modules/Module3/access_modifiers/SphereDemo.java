@@ -1,4 +1,3 @@
-package access_modifiers;
 
 /**
  * Demonstrates using Circle object.

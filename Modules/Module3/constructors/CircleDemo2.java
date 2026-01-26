@@ -1,4 +1,3 @@
-package constructors;
 
 /**
  * Demonstrates using Circle object.

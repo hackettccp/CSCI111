@@ -1,4 +1,3 @@
-package static_fields_and_methods;
 
 /**
  * Demonstrates calling a static function.

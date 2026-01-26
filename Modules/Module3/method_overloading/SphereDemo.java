@@ -1,4 +1,3 @@
-package method_overloading;
 
 /**
  * Demonstrates using a Sphere object.

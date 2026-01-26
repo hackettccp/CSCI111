@@ -1,4 +1,3 @@
-package arrays_of_objects;
 
 /**
  * Demonstrates an array of Car objects

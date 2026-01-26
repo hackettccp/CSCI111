@@ -1,4 +1,3 @@
-package access_modifiers;
 
 /**
  * This class models a sphere with a radius field

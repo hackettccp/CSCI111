@@ -1,4 +1,3 @@
-package object_examples;
 
 /**
  * This class models a rectangle with length and width fields

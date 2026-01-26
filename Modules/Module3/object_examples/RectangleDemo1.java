@@ -1,4 +1,3 @@
-package object_examples;
 
 /**
  * Demonstrates using the Rectangle object.

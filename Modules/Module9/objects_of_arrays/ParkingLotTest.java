@@ -1,4 +1,3 @@
-package objects_of_arrays;
 
 /**
  * Demonstrates the ParkingLot object

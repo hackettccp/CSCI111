@@ -1,4 +1,3 @@
-package object_equality;
 
 /**
  * This class demonstrates the Rectangle object's copy constructor.

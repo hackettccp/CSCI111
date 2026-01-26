@@ -1,4 +1,3 @@
-package method_overloading;
 
 /**
  * This class models a sphere with a radius field

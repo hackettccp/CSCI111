@@ -1,4 +1,3 @@
-package copying_objects;
 
 /**
  * This class demonstrates the Rectangle object's copy constructor.

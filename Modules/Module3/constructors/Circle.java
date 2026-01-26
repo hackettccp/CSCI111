@@ -1,4 +1,3 @@
-package constructors;
 
 /**
  * This class models a circle with radius and color fields

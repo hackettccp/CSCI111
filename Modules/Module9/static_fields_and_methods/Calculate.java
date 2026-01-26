@@ -1,4 +1,3 @@
-package static_fields_and_methods;
 
 /**
  * A class with one static method.
